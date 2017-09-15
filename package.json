@@ -1,0 +1,19 @@
+{
+  "name": "alchemytest",
+  "version": "1.0.0",
+  "description": "testing alchemy and node and stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadeland/alchemytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadeland/alchemytest/issues"
+  },
+  "homepage": "https://github.com/shadeland/alchemytest#readme"
+}
